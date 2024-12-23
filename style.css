@@ -239,4 +239,8 @@ button:hover {
     .results {
         border-radius: 0 0 2rem 2rem;
     }
+    button:hover {
+    cursor: pointer;
+    background-color: var(--Light-royal-blue);
+}
 }
