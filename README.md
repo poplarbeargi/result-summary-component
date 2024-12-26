@@ -41,10 +41,10 @@ Users should be able to:
 - Flexbox
 - 
 ### What I learned
-uses of pseudo classes, pseudo elements, and data* attribute. 
+uses of pseudo classes, pseudo-elements, and data* attributes. 
 
 ### Continued development
-I'm going to make it work with the JSON data next time.
+Creating a random generator of numbers for the each categories and make main score dynamically updated based on the these.
 
 ## Author
 
