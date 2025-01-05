@@ -63,6 +63,8 @@ body {
 .result-summary {
     max-width: 46rem;
     display: flex;
+    box-shadow: 5px 5px 50px var(--Light-lavender);
+    border-radius: 2rem;
 }
 
 .results {
@@ -239,8 +241,4 @@ button:hover {
     .results {
         border-radius: 0 0 2rem 2rem;
     }
-    button:hover {
-    cursor: pointer;
-    background-color: var(--Light-royal-blue);
-}
 }
